@@ -1,4 +1,17 @@
-## Hi there 👋
+<div class="fondo-primary">
+                <div class="greeting-div">
+                    <!-- Tag -->
+                    <span class="greeting letra-secondary">&lt;<span class="greeting letra-highlight">h1</span>&gt;</span>
+                    <!-- Mensaje -->
+                    <div class="greeting-grid">
+                        <div>
+                            <p id="greeting" class="greeting cursor letra-primary p-0 m-0"></p>
+                        </div>
+                    </div>
+                    <!-- Tag -->
+                    <span class="greeting letra-secondary">&lt;/<span class="greeting letra-highlight">h1</span>&gt;</span>
+                </div>
+            </div>
 
 <!--
 **lfbenav/lfbenav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
