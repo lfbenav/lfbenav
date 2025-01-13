@@ -1,4 +1,4 @@
-<div style="background-color:'#1F1F1F'">
+<div style="background-color:#1F1F1F">
                 <div class="greeting-div">
                     <!-- Tag -->
                     <span class="greeting letra-secondary">&lt;<span class="greeting letra-highlight">h1</span>&gt;</span>
